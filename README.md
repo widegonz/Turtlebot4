@@ -73,8 +73,7 @@ sudo apt install ros-humble-turtlebot4-simulator
 
 La instalación del paquete ros-humble-turtlebot4-simulator es necesaria si deseas simular un robot TurtleBot 4 en tu sistema. Este paquete incluye los archivos y herramientas requeridos para la simulación del TurtleBot 4 en Ignition Gazebo, una plataforma ampliamente utilizada en robótica.
 
-Instalación desde código fuente (opcional)
-Si prefieres instalar el metapaquete desde el código fuente, realiza lo siguiente:
+Instalación desde código fuente:
 
 ```bash
 mkdir -p ~/turtlebot4_ws/src  
